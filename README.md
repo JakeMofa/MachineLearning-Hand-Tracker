@@ -1,6 +1,6 @@
 # MachineLearning-Hand-Tracker
 Hello this is one of my Machine Learning project which i  took some time to do, is built and composed of primarily python and includes some libraries like cv2, mediapipe and OpenCV.
-# Eplanation
+# Explanation
 
 Basically it is simple and easy to use, just open a  virutal env and , well you might have to make some configurations  python -m pip install "kivy[base]" kivy_examples --no-binary kivy  and pip install opencv-python. The your good to go
 
